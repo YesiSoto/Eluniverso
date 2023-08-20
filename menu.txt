@@ -1,0 +1,14 @@
+
+<link rel="stylesheet" href="style.css">
+
+
+<!-- Menú de navegación del sitio -->
+<ul class="navbar">
+<li><a href="index1.html">Datos b&acutesicos</a>
+<li><a href="Preferencias.html">Preferencias</a>
+<li><a href="Ejercicios.html">Ejercicios</a>
+<li><a href="Fomulario.html">Formulario</a>
+</ul>
+
+
+
